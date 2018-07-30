@@ -41,12 +41,12 @@
 	<distributionManagement>
 
 		<repository>
-			<id>veera10</id>
-			<url>http://localhost:8081/nexus/content/repositories/veera10/</url>
-		</repository>
-		<snapshotRepository>
 			<id>veera9</id>
 			<url>http://localhost:8081/nexus/content/repositories/veera9/</url>
+		</repository>
+		<snapshotRepository>
+			<id>veera10</id>
+			<url>http://localhost:8081/nexus/content/repositories/veera10/</url>
 		</snapshotRepository>		
   </distributionManagement>
 
